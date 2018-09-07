@@ -1,0 +1,3 @@
+This is the code that is used to sort and graph the Color-magnitude diagram.
+I used a txt document with the ID's of the stars I wanted to indepently graph.
+  This document had the Atlas IDs and Star Type
